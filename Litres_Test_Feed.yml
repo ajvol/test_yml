@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE yml_catalog SYSTEM "shops.dtd">
 <yml_catalog date="2019-11-12 14:12:01"><shop>
   <name>LitRes.ru</name>
   <company>ООО ЛитРес</company>
@@ -33,3 +33,6 @@ series>Евлампия Романова. Следствие ведет диле
 
 <offer id="118364" type="book" available="false"><url>https://www.litres.ru/darya-doncova/manikur-dlya-pokoynika/</url><price>109.00</price><currencyId>RUR</currencyId><categoryId>38300</categoryId><picture>https://cv6.litres.ru/pub/c/cover/118364.jpg</picture><author>Дарья Донцова</author><name>Маникюр для покойника</name><publisher>Эксмо</publisher><series>Евлампия Романова. Следствие ведет дилетант</series><year>2000</year><ISBN>978-5-699-21092-3</ISBN><description> Вот уже тридцать лет мои дни скучны и однообразны. Нет подруг, нет близких. И вдруг моя жизнь в одночасье изменилась. Судьба подарила мне подругу – Катю! Но... спустя день ее похитили. Неизвестные требовали документы, которые хранились у какого-то Кости Катукова. Найти Катю и вернуть ее в лоно семьи было моим долгом! Недолго думая, я поехала к нему домой, но хозяин квартиры был мертв. Мне так и не удалось найти те злополучные документы! Знать бы, что это стало началом моего кошмара... 
 </description><downloadable>true</downloadable><age>16</age><param name="Форматы"></param><litres_isbn>978-5-425-00003-3</litres_isbn><genres_list>5262,6815,17035,32825,101759,5262,6815,17035,32825,101759</genres_list></offer>
+</offers>
+</shop>
+</yml_catalog>
